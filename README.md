@@ -73,3 +73,19 @@ The paper references seminal works in the areas of urban mobility, smart cities,
 ### Direct Relevance
 
 This paper is highly relevant to my caps
+
+### Authors
+
+- **Suresh Kumar**   
+  Specialization: Urban Planning, Smart Cities, and Transportation Systems  
+  Biography: Dr. Suresh Kumar is a renowned expert in urban mobility and smart city initiatives. With over two decades of research experience, he has published extensively on the integration of technology in urban infrastructure. His recent work focuses on the impact of smart city solutions on improving traffic management and reducing congestion in large metropolitan areas.
+
+- **Priya Soni**    
+  Specialization: Transportation Engineering, Smart Mobility, and Urban Sustainability  
+  Biography: Priya Soni is a researcher with expertise in sustainable transportation and the implementation of smart technologies in urban settings. Her work explores how emerging technologies can be used to improve traffic efficiency and enhance public transport services in rapidly growing cities.
+
+- **Vinay Bhagat**   
+  Specialization: Data Analytics, Urban Mobility, and Environmental Sustainability  
+  Biography: Vinay Bhagat’s research interests lie at the intersection of urban mobility and data science. His work focuses on the use of data analytics to optimize transportation networks and the environmental impact of urban transport systems. He has been involved in multiple projects related to the use of IoT for smart city development.
+
+
