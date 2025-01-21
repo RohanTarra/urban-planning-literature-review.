@@ -70,11 +70,28 @@ This paper builds on previous research in the field of smart cities, especially 
 
 The paper references seminal works in the areas of urban mobility, smart cities, and traffic management, such as studies by [Author 1] on the role of IoT in urban planning and [Author 2] on smart traffic systems. By integrating these studies, the authors provide a comprehensive understanding of how smart technologies are transforming urban mobility.
 
-## Relevance to Capstone Project
+### Relevance to Capstone Project
 
-### Direct Relevance
+This paper is highly relevant to my capstone project on **Urban Planning and Smart Cities**, as it directly addresses the impact of smart city initiatives on urban mobility, which is a critical aspect of smart cities. The study’s focus on traffic management, air quality, and public transport efficiency aligns closely with my research objectives, which explore how smart technologies can enhance urban mobility and sustainability.
 
-This paper is highly relevant to my caps
+#### Key Methods and Theories to Incorporate
+
+1. **Real-Time Data Integration**: The study uses data from Intelligent Traffic Management Systems (ITMS) and air quality sensors to evaluate the effectiveness of smart city transportation systems. This methodology could be directly applied to my capstone project, where I plan to analyze the effectiveness of similar systems in a different urban context.
+
+2. **Comparative Analysis**: The authors conduct a comparative analysis between cities with and without smart transportation systems. This method could be useful in my project to compare the impact of smart initiatives across different cities or regions, particularly focusing on the pre- and post-implementation outcomes.
+
+3. **Sustainability Metrics**: The paper emphasizes the environmental benefits of smart city projects, such as reduced pollution levels and improved air quality. In my project, I plan to investigate similar sustainability metrics, particularly focusing on how smart transportation impacts urban carbon footprints and air quality.
+
+#### Areas for Expansion or Divergence
+
+1. **Social and Economic Implications**: While the paper focuses primarily on the environmental and efficiency aspects of smart transportation, my capstone project could expand upon this by exploring the **socio-economic** implications of smart city initiatives. I plan to investigate how different socio-economic groups, particularly low-income residents, are impacted by the implementation of smart transportation technologies. This could include looking at accessibility, affordability, and the inclusion of marginalized communities in the development process.
+
+2. **Technological Advancements**: The study focuses on current smart technologies, but my project might explore the potential future applications of emerging technologies such as **autonomous vehicles**, **electric public transport**, and **smart parking systems**. These technologies could significantly change the landscape of urban mobility and warrant a more in-depth exploration in the context of smart city planning.
+
+3. **Long-Term Impact Assessment**: While the paper provides a snapshot of the short- to medium-term effects of smart city transportation systems, my research could investigate the **long-term sustainability** of these systems. This includes analyzing how maintenance, scalability, and technological obsolescence might affect the success of smart city projects over time.
+
+In summary, the findings from this paper offer a solid foundation for my capstone project, especially in terms of methodologies for data collection and analysis. However, I plan to expand upon these findings by incorporating social, economic, and long-term perspectives on the implementation of smart city initiatives.
+
 
 ### Authors
 
