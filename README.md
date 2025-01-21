@@ -1,4 +1,6 @@
 # Literature Review: Impact of Smart City Initiatives on Urban Mobility in India
+Author(s): Suresh Kumar, Priya Soni, and Vinay Bhagat
+Published in: Transportation Research Part A: Policy and Practice (2023)
 
 ## Background and Motivation
 
