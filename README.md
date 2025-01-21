@@ -1,6 +1,6 @@
 # Literature Review: Impact of Smart City Initiatives on Urban Mobility in India
 
-## Background and Motivation.
+## Background and Motivation
 
 Urbanization is accelerating globally, and cities, especially in developing countries like India, face numerous challenges in managing urban mobility. Traffic congestion, inefficient public transport systems, and environmental pollution are major issues that hamper the efficiency of urban life. To address these challenges, many cities have implemented smart city initiatives, which integrate technology to improve urban living. 
 
