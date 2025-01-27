@@ -147,10 +147,6 @@ Where:
 
 
 
-#### Data Flow Diagram:  
-```plaintext
-Sensors → Data Integration → Traffic Management Algorithm → Real-Time Adjustments → Improved Flow
-
 
 ### Previous Studies
 
