@@ -143,10 +143,9 @@ Where:
 - \(T_{\text{optimal}}\): Optimal throughput based on real-time data.  
 
 ### Visual Representation of Methods  
+![image](https://github.com/user-attachments/assets/49f57cfb-f928-4179-9222-aa10a8e08884)
 
-#### Traffic Flow Heatmap Example:  
-![Heatmap](https://dummyimage.com/600x400/000/fff&text=Traffic+Heatmap+Visualization)  
-The heatmap visualizes congestion levels across Delhi before and after ITMS implementation, highlighting key improvements.  
+
 
 #### Data Flow Diagram:  
 ```plaintext
